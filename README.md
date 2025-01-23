@@ -57,15 +57,15 @@ Find the code and notebooks in our [GitHub repository](https://github.com/mchabr
 
 ## Visualization
 
-![Expected Regret Comparison eq](outputs/regret_plot_eqallocation.png)
+![Expected Regret Comparison eq](output/regret_plot_eqallocation.png)
 
-![Expected Regret Comparison rpm](outputs/regret_plot_rpm.png)
+![Expected Regret Comparison rpm](output/regret_plot_rpm.png)
 
-![Arm convergence](outputs/arm_cvg.png)
+![Arm convergence](output/arm_cvg.png)
 
-![Expected Regret Comparison lin eq](outputs/reg_lin_eq.png)
+![Expected Regret Comparison lin eq](output/reg_lin_eq.png)
 
-![Expected Regret Comparison rpm](outputs/reg_lin_rpm.png)
+![Expected Regret Comparison rpm](output/reg_lin_rpm.png)
 
 ---
 
