@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores the **multi-armed bandit problem** using **Bayesian methods**, specifically focusing on the **Randomized Probability Matching (RPM)** algorithm. The work aims to demonstrate how Bayesian approaches balance the trade-off between exploration and exploitation, minimizing regret and converging to optimal decisions efficiently.
+This project is based on the paper "A modern Bayesian look at the multi‐armed bandit" by Scott and explores the **multi-armed bandit problem** using **Bayesian methods**, specifically focusing on the **Randomized Probability Matching (RPM)** algorithm. The work aims to demonstrate how Bayesian approaches balance the trade-off between exploration and exploitation, minimizing regret and converging to optimal decisions efficiently.
 
 This project was developed collaboratively by:
 - **Charlotte De Romémont** ([charlotte.deromemont@ensae.fr](mailto:charlotte.deromemont@ensae.fr))
@@ -57,15 +57,19 @@ Find the code and notebooks in our [GitHub repository](https://github.com/mchabr
 
 ## Visualization
 
-![Expected Regret Comparison eq](output/regret_plot_eqallocation.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="output/regret_plot_eqallocation.png" alt="Expected Regret Comparison eq" style="width: 45%;">
+  <img src="output/regret_plot_rpm.png" alt="Expected Regret Comparison rpm" style="width: 45%;">
+</div>
 
-![Expected Regret Comparison rpm](output/regret_plot_rpm.png)
+<div style="display: flex; justify-content: center;">
+  <img src="output/arm_cvg.png" alt="Arm convergence" style="width: 100%;">
+</div>
 
-![Arm convergence](output/arm_cvg.png)
-
-![Expected Regret Comparison lin eq](output/reg_lin_eq.png)
-
-![Expected Regret Comparison rpm](output/reg_lin_rpm.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="output/reg_lin_eq.png" alt="Expected Regret Comparison lin eq" style="width: 45%;">
+  <img src="output/reg_lin_rpm.png" alt="Expected Regret Comparison rpm" style="width: 45%;">
+</div>
 
 ---
 
