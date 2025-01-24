@@ -11,6 +11,21 @@ This project was developed collaboratively by:
 
 ---
 
+## Installation and Usage
+
+### Prerequisites
+- Python 3.x
+- Required libraries: `numpy`, `scipy`, `matplotlib`, `pandas`
+
+### How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mchabrol/Bayesian-Statistics-.git
+
+2. Run the notebooks `Binomial_Bandits.ipynb` and `Linear_Bandits.ipynb` sequentially.
+   
+---
+
 ## Key Concepts
 
 - **Multi-Armed Bandit Problem**: A sequential decision-making scenario aiming to maximize cumulative rewards from unknown payoff distributions.
@@ -73,18 +88,4 @@ Find the code and notebooks in our [GitHub repository](https://github.com/mchabr
   <img src="output/reg_lin_rpm.png" alt="Expected Regret Comparison rpm" style="width: 45%;">
 </div>
 
----
-
-## Installation and Usage
-
-### Prerequisites
-- Python 3.x
-- Required libraries: `numpy`, `scipy`, `matplotlib`, `pandas`
-
-### How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mchabrol/Bayesian-Statistics-.git
-
-2. Run the notebooks `Binomial_Bandits.ipynb` and `Linear_Bandits.ipynb` sequentially.
 
