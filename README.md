@@ -57,15 +57,17 @@ Find the code and notebooks in our [GitHub repository](https://github.com/mchabr
 
 ## Visualization
 
+- **Binomial Bandits**:
 <div style="display: flex; justify-content: space-between;">
   <img src="output/regret_plot_eqallocation.png" alt="Expected Regret Comparison eq" style="width: 45%;">
   <img src="output/regret_plot_rpm.png" alt="Expected Regret Comparison rpm" style="width: 45%;">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="output/arm_cvg.png" alt="Arm convergence" style="width: 100%;">
+  <img src="output/arm_cvg.png" alt="Arm convergence" style="width: 90%;">
 </div>
 
+- **Linear Bandits**:
 <div style="display: flex; justify-content: space-between;">
   <img src="output/reg_lin_eq.png" alt="Expected Regret Comparison lin eq" style="width: 45%;">
   <img src="output/reg_lin_rpm.png" alt="Expected Regret Comparison rpm" style="width: 45%;">
