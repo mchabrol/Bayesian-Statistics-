@@ -5,9 +5,9 @@
 This project is based on the paper "A modern Bayesian look at the multi‐armed bandit" by Scott and explores the **multi-armed bandit problem** using **Bayesian methods**, specifically focusing on the **Randomized Probability Matching (RPM)** algorithm. The work aims to demonstrate how Bayesian approaches balance the trade-off between exploration and exploitation, minimizing regret and converging to optimal decisions efficiently.
 
 This project was developed collaboratively by:
-- **Charlotte De Romémont** ([charlotte.deromemont@ensae.fr](mailto:charlotte.deromemont@ensae.fr))
-- **Suzie Grondin** ([suzie.grondin@ensae.fr](mailto:suzie.grondin@ensae.fr))
-- **Marion Chabrol** ([marion.chabrol@ensae.fr](mailto:marion.chabrol@ensae.fr))
+- **Charlotte De Romémont** (`charlotte(dot)deromemont(at)ensae(dot)fr`) 
+- **Suzie Grondin** (`suzie(dot)grondin(at)ensae(dot)fr`)
+- **Marion Chabrol** (`marion(dot)chabrol(at)ensae(dot)fr`)
 
 ---
 
@@ -55,7 +55,7 @@ Find the code and notebooks in our [GitHub repository](https://github.com/mchabr
 
 ---
 
-## Visualization
+## Revelant outputs
 
 - **Binomial Bandits**:
 <div style="display: flex; justify-content: space-between;">
